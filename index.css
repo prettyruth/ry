@@ -1,0 +1,24 @@
+.download-btn{
+    background-color: grey;
+    color:black;
+    padding:10px 10px;
+    font-size:1rem;
+    text-decoration:none;
+    border-radius:5px;
+}
+.progress-bar{
+    color: white;
+    background-color: grey;
+}
+pre{
+    font-size:20px;
+}
+h2{
+    color:grey;
+    font-family:cambria;
+}
+dd{
+    color:grey;
+}
+
+
